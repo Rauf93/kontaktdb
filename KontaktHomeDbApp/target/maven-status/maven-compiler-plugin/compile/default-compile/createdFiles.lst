@@ -1,0 +1,5 @@
+entity\Category.class
+entity\Product.class
+entity\Customer.class
+entity\Order.class
+main\Main.class
